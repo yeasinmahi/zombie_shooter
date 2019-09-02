@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd"/>
+
+<plist version="1.0">
+    <dict>
+        <key>ROOT</key>
+        <array>
+            <dict>
+                <key>id</key>
+                <string>2081</string>
+                <key>Sound is ON</key>
+                <dict>
+                    <key>value</key>
+                    <string>2082</string>
+                </dict>
+                <key>Sound is OFF</key>
+                <dict>
+                    <key>value</key>
+                    <string>2086</string>
+                </dict>
+                <key>Click Sound</key>
+                <dict>
+                    <key>value</key>
+                    <string>4520</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>2542</string>
+                <key>Sound is ON</key>
+                <dict>
+                    <key>value</key>
+                    <string>2082</string>
+                </dict>
+                <key>Sound is OFF</key>
+                <dict>
+                    <key>value</key>
+                    <string>2086</string>
+                </dict>
+                <key>Click Sound</key>
+                <dict>
+                    <key>value</key>
+                    <string>4520</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>4740</string>
+                <key>Sound is ON</key>
+                <dict>
+                    <key>value</key>
+                    <string>2082</string>
+                </dict>
+                <key>Sound is OFF</key>
+                <dict>
+                    <key>value</key>
+                    <string>2086</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>id</key>
+                <string>4746</string>
+                <key>Sound is ON</key>
+                <dict>
+                    <key>value</key>
+                    <string>4757</string>
+                </dict>
+                <key>Sound is OFF</key>
+                <dict>
+                    <key>value</key>
+                    <string>4761</string>
+                </dict>
+            </dict>
+        </array>
+    </dict>
+</plist>
